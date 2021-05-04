@@ -1,4 +1,5 @@
-;; jfolding.el - quick and dirty folding package for emacs
+;;; jfolding.el --- Quick and dirty folding
+
 ;; $Revision: 1.8 $
 ;; $Date: 2000/06/26 15:46:18 $
 
